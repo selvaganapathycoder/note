@@ -1,4 +1,4 @@
-import React from 'react';
+
 import NoteForm from '@/components/ui/NoteForm';
 import NoteList from '@/components/ui/NoteList';
 
